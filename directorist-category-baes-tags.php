@@ -2,12 +2,12 @@
 /**
  * Plugin Name:       Directorist - Category Based Tags
  * Plugin URI:        https://wpxplore.com/tools/directorist-category-based-tags/
- * Description:       Filters Directorist tags by selected categories on listing and search forms.
+ * Description:       Filter Directorist tags by selected categories on tag edit, add listing, and search forms with optional fallback behavior.
  * Version:           2.0.0
  * Requires at least: 5.2
  * Requires PHP:      5.6
- * Author:            WpXplore
- * Author URI:        https://wpxplore.com/tools/directorist-category-based-tags/
+ * Author:            wpXplore
+ * Author URI:        https://wpxplore.com/
  * License:           GPL v2 or later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:       directorist-category-based-tags
